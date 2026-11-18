@@ -17,4 +17,6 @@ Publicado el 23 de Octubre del 2023
 
 ## Otras versiones encontradas
 
-
+- [FlappyBat](https://maychku.itch.io/flappybat) by maychku
+- [Flappy Bat](https://store.steampowered.com/app/1587430/Flappy_Bat/?l=latam) by Paul Connor
+- [Flappy Bat](https://play.google.com/store/apps/details?id=com.simomath.flappybat&hl=es&pli=1) by simomath
